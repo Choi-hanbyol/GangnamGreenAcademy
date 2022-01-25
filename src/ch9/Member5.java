@@ -13,6 +13,7 @@ public class Member5 {
 	Member5(String name){
 		this("test", "222", "뉴욕");
 		System.out.println("파라메터 1개를 갖는 생성자의 this() 후");
+		System.out.println("전달 받은 파라메터 : "+name);
 	}
 	
 	Member5(String name, String tel, String address){
