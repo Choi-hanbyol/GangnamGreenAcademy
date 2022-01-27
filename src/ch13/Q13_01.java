@@ -18,9 +18,5 @@ public class Q13_01 {
 		else {
 			System.out.println(a+"와(과)"+b+"는 같다");
 		}
-		
-		
-
 	}
-
 }
